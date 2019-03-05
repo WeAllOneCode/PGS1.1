@@ -1,5 +1,5 @@
-# PGS2
-Population-based Genome Structure tools version 2.
+# PGS1.2
+Population-based Genome Structure tools version 1.2
 Added functionalities from earlier version: https://github.com/alberlab/pgs
 (Docs https://pgs.readthedocs.io/en/latest/).
 
